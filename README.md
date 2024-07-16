@@ -1,5 +1,5 @@
 # Maryam-Abyaneh
-# Data Scientist
+# Data Analyist
 
 #### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
 
