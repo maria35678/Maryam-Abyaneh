@@ -4,7 +4,7 @@
 #### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
 
 ## Education		        		
-- B.S., Physics | The University of Sydney (_July 2024_)
+- B.S., Data engineering | The University of Sydney (_July 2024_)
 
 ## Work Experience
 Infinite Sensin | Sydney, Australia
